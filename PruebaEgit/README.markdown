@@ -8,9 +8,11 @@ Instalación
 
 Se necesita instalar lo siguiente:
 
-*Java SDK
-*Eclipse Indigo
-*Plugin Egit
+-Java SDK
+
+-Eclipse Indigo
+
+-Plugin Egit
 
 Contacto
 --------
