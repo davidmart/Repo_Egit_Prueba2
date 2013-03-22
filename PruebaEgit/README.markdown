@@ -8,17 +8,16 @@ Instalación
 
 Se necesita instalar lo siguiente:
 
--Java SDK
+*	Java SDK
+*	Eclipse Indigo
+*	Plugin Egit
+*	Repositorio en [GitHub](http//:www.github.com)
 
--Eclipse Indigo
-
--Plugin Egit
-
-Contacto
+Autor
 --------
 
 David Martínez Reguero
-Si quiere contactar puede usar este [correo](http//:www.dmregue.daw@gmail.com)
+
 
 
 
