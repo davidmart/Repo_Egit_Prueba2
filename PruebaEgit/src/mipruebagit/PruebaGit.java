@@ -9,7 +9,7 @@ public class PruebaGit {
 	System.out.println("Cambio de mensaje");
 	System.out.println("Nuevo mensaje para nuevo commit");
 	System.out.println("Cambio del mensaje desde el editor de GitHub");
-
+		System.out.println("Otro cambio para ver si funciona el fetch");
 	}
 
 }
